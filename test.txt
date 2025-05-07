@@ -11,3 +11,5 @@ Commit 5 with VSCode
 VSCode with auto signing
 
 VSCode in windows with Git signing
+
+VSCode New key signing
